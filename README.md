@@ -8,7 +8,7 @@ Due to time constraints and other logistical issues, the delete route stretch go
 
 ## Preview
 
-The project can be found at [this address](https://google.com).
+The project can be found at [this address](https://zack-module-11-note-taker-d50afde675f5.herokuapp.com/).
 
 The following screenshot provides an example of how the page may look when viewing notes:
 ![An image of the webpage at the note-taking page](./webpage_example.png)
