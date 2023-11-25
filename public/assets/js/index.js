@@ -1,3 +1,6 @@
+
+// This code was provided as part of the foundation; it is untouched aside from this comment
+
 let noteTitle;
 let noteText;
 let saveNoteBtn;
